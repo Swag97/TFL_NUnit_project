@@ -1,0 +1,15 @@
+﻿{
+  "URL": "https://tfl.gov.uk/plan-a-journey",
+  "To_Station": "Leicester Square Underground Station",
+  "From_Station": "Covent Garden Underground Station",
+  "Input_To_Station": "Lei",
+  "Input_From_Station": "Cov",
+  "Invalid_To_Station": "!@#",
+  "Invalid_From_Station": "@#$",
+  "Expected_Error_Invalid_Input": "Journey planner could not find any results to your search. Please try again",
+  "Expected_Error_Blank_From": "The From field is required.",
+  "Expected_Error_Blank_To": "The To field is required.",
+  "Steps": [ "Up stairs", "Up lift", "Level walkway" ],
+  "Steps_at_Station": "Covent Garden Underground Station"
+
+}
