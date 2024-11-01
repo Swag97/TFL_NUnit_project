@@ -20,4 +20,7 @@ NUnit C# framework and follows data driver development approach and ensuring dat
 -	Test 5 Test 4 has a initiate driver method are it needs to be executed on new instance.
 -	BaseClass.cs is inherited in TestCases.cs class inorder to use its properties
 -	Pageobjects.cs – contains all the locators of the elements achieving encapsulation
--	In TestExplorer, we can see the 5 tests that are developed 
+-	In TestExplorer, we can see the 5 tests that are developed
+
+NOTE:
+1. Word document named "TFL_NUnit_project_overview is added with same information and screenshots in the same folder
